@@ -8,6 +8,7 @@ Media Player implementation that supports 5 key-features
 ##How to run the program:
 "Makefile" is attached to compile the code.
 Run:
+
 	Make
 	./mplayer <video file path>
 
